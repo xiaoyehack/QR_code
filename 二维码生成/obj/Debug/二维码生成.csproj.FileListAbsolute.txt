@@ -38,3 +38,6 @@ G:\信息记录\CodeStorage\二维码批量生成\二维码生成\obj\Debug\二�
 G:\信息记录\CodeStorage\二维码批量生成\二维码生成\obj\Debug\二维码生成.MainForm.resources
 G:\信息记录\CodeStorage\二维码批量生成\二维码生成\obj\Debug\二维码生成.Properties.Resources.resources
 G:\信息记录\CodeStorage\二维码批量生成\二维码生成\obj\Debug\二维码生成.csproj.GenerateResource.Cache
+C:\Users\xiaoyehack\Source\Repos\xiaoyehack\QR_code\二维码生成\bin\Debug\二维码生成.exe.config
+C:\Users\xiaoyehack\Source\Repos\xiaoyehack\QR_code\二维码生成\obj\Debug\二维码生成.exe
+C:\Users\xiaoyehack\Source\Repos\xiaoyehack\QR_code\二维码生成\obj\Debug\二维码生成.pdb

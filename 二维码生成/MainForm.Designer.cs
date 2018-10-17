@@ -45,28 +45,28 @@
             // 
             // codePictureBox
             // 
-            this.codePictureBox.Location = new System.Drawing.Point(16, 15);
-            this.codePictureBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.codePictureBox.Location = new System.Drawing.Point(18, 18);
+            this.codePictureBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.codePictureBox.Name = "codePictureBox";
-            this.codePictureBox.Size = new System.Drawing.Size(335, 218);
+            this.codePictureBox.Size = new System.Drawing.Size(377, 262);
             this.codePictureBox.TabIndex = 0;
             this.codePictureBox.TabStop = false;
             // 
             // QcodeIdBox
             // 
-            this.QcodeIdBox.Location = new System.Drawing.Point(79, 306);
-            this.QcodeIdBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.QcodeIdBox.Location = new System.Drawing.Point(89, 367);
+            this.QcodeIdBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.QcodeIdBox.Name = "QcodeIdBox";
-            this.QcodeIdBox.Size = new System.Drawing.Size(141, 25);
+            this.QcodeIdBox.Size = new System.Drawing.Size(158, 28);
             this.QcodeIdBox.TabIndex = 2;
             // 
             // DisplayQcrod
             // 
             this.DisplayQcrod.Font = new System.Drawing.Font("微软雅黑 Light", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.DisplayQcrod.Location = new System.Drawing.Point(251, 304);
-            this.DisplayQcrod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.DisplayQcrod.Location = new System.Drawing.Point(282, 365);
+            this.DisplayQcrod.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.DisplayQcrod.Name = "DisplayQcrod";
-            this.DisplayQcrod.Size = new System.Drawing.Size(108, 29);
+            this.DisplayQcrod.Size = new System.Drawing.Size(122, 35);
             this.DisplayQcrod.TabIndex = 3;
             this.DisplayQcrod.Text = "显示二维码";
             this.DisplayQcrod.UseVisualStyleBackColor = true;
@@ -75,38 +75,38 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(16, 310);
+            this.label1.Location = new System.Drawing.Point(18, 372);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(61, 15);
+            this.label1.Size = new System.Drawing.Size(71, 18);
             this.label1.TabIndex = 3;
             this.label1.Text = "起始Id:";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(16, 349);
+            this.label2.Location = new System.Drawing.Point(18, 419);
             this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(53, 15);
+            this.label2.Size = new System.Drawing.Size(62, 18);
             this.label2.TabIndex = 4;
             this.label2.Text = "数 量:";
             // 
             // QcodeNumbox
             // 
-            this.QcodeNumbox.Location = new System.Drawing.Point(79, 349);
-            this.QcodeNumbox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.QcodeNumbox.Location = new System.Drawing.Point(89, 419);
+            this.QcodeNumbox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.QcodeNumbox.Name = "QcodeNumbox";
-            this.QcodeNumbox.Size = new System.Drawing.Size(141, 25);
+            this.QcodeNumbox.Size = new System.Drawing.Size(158, 28);
             this.QcodeNumbox.TabIndex = 4;
             // 
             // Qcord_GenerateBut
             // 
             this.Qcord_GenerateBut.Font = new System.Drawing.Font("华文细黑", 8.999999F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.Qcord_GenerateBut.Location = new System.Drawing.Point(251, 349);
-            this.Qcord_GenerateBut.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Qcord_GenerateBut.Location = new System.Drawing.Point(282, 419);
+            this.Qcord_GenerateBut.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.Qcord_GenerateBut.Name = "Qcord_GenerateBut";
-            this.Qcord_GenerateBut.Size = new System.Drawing.Size(108, 29);
+            this.Qcord_GenerateBut.Size = new System.Drawing.Size(122, 35);
             this.Qcord_GenerateBut.TabIndex = 5;
             this.Qcord_GenerateBut.Text = "生成";
             this.Qcord_GenerateBut.UseVisualStyleBackColor = true;
@@ -117,55 +117,55 @@
             this.QcodeProductionBar.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.QcodeProductionBar.Location = new System.Drawing.Point(16, 386);
-            this.QcodeProductionBar.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.QcodeProductionBar.Location = new System.Drawing.Point(18, 463);
+            this.QcodeProductionBar.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.QcodeProductionBar.Name = "QcodeProductionBar";
-            this.QcodeProductionBar.Size = new System.Drawing.Size(283, 38);
+            this.QcodeProductionBar.Size = new System.Drawing.Size(318, 46);
             this.QcodeProductionBar.TabIndex = 7;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(299, 351);
+            this.label3.Location = new System.Drawing.Point(336, 421);
             this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(0, 15);
+            this.label3.Size = new System.Drawing.Size(0, 18);
             this.label3.TabIndex = 8;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(16, 269);
+            this.label4.Location = new System.Drawing.Point(18, 323);
             this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(61, 15);
+            this.label4.Size = new System.Drawing.Size(71, 18);
             this.label4.TabIndex = 9;
             this.label4.Text = "Id前缀:";
             // 
             // IdPrefixBox
             // 
-            this.IdPrefixBox.Location = new System.Drawing.Point(79, 265);
-            this.IdPrefixBox.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.IdPrefixBox.Location = new System.Drawing.Point(89, 318);
+            this.IdPrefixBox.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.IdPrefixBox.Name = "IdPrefixBox";
-            this.IdPrefixBox.Size = new System.Drawing.Size(271, 25);
+            this.IdPrefixBox.Size = new System.Drawing.Size(304, 28);
             this.IdPrefixBox.TabIndex = 1;
             this.IdPrefixBox.Text = "http://downapp.xiaoyugongxiang.com/downapp/xiaoyudown.html?lockid=";
             // 
             // label5
             // 
             this.label5.Font = new System.Drawing.Font("楷体", 9.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
-            this.label5.Location = new System.Drawing.Point(307, 402);
+            this.label5.Location = new System.Drawing.Point(345, 482);
             this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(65, 38);
+            this.label5.Size = new System.Drawing.Size(73, 46);
             this.label5.TabIndex = 11;
             this.label5.Text = "      ";
             // 
             // MainForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 18F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(369, 454);
+            this.ClientSize = new System.Drawing.Size(415, 545);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.IdPrefixBox);
             this.Controls.Add(this.label4);
@@ -179,10 +179,10 @@
             this.Controls.Add(this.QcodeIdBox);
             this.Controls.Add(this.codePictureBox);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.MaximizeBox = false;
             this.Name = "MainForm";
-            this.Text = "二维码批量生成工具";
+            this.Text = "二维码批量工具";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.codePictureBox)).EndInit();
             this.ResumeLayout(false);
